@@ -1,0 +1,10 @@
+MetaTrader5
+numpy
+pandas
+pyarrow
+matplotlib
+streamlit
+tqdm
+python-dotenv
+xgboost
+scikit-learn
