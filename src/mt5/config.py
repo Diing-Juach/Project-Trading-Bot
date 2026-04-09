@@ -62,8 +62,8 @@ ML_DATASET_OUTPUT_DIR = OUTPUTS_DIR / "ml_datasets"
 # -----------------------------
 SYMBOLS = _env_csv("TBOT_SYMBOLS", ["GBPUSD"])
 TIMEFRAMES = _env_csv("TBOT_TIMEFRAMES", ["M30"])
-START_DATE = _env_datetime("TBOT_START_DATE", datetime(2008, 1, 1))
-END_DATE = _env_datetime("TBOT_END_DATE", datetime(2009, 1, 1))
+START_DATE = _env_datetime("TBOT_START_DATE", datetime(2026, 1, 1))
+END_DATE = _env_datetime("TBOT_END_DATE", datetime(2026, 4, 9))
 
 
 # Backtest settings
