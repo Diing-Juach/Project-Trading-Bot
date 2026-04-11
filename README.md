@@ -57,7 +57,7 @@ TBotFixed/
 
 ## Requirements
 
-- "IMPORTANT" - The Oanda MT5 Terminal is required to run the bot. https://www.oanda.com/eu-en/download
+- "IMPORTANT" - The Oanda MT5 Terminal is required to run the bot using the provided .env file (Additional Submission). https://www.oanda.com/eu-en/download
 - Python `3.12`
 - Windows
 - MetaTrader 5 installed locally
