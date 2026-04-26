@@ -100,6 +100,7 @@ Key defaults include:
 
 Environment setup:
 - https://www.oanda.com/eu-en/download
+- In the Oanda Terminal, Go to tools -> Options -> Charts. At the bottom of the section, change the "Max bars in chart:" to unlimited.
 - `.env.example` is the safe template committed to the repository
 - `.env` is your private local file and is ignored by git
 - the MT5 connector reads `MT5_LOGIN`, `MT5_PASSWORD`, and `MT5_SERVER` from `.env`
